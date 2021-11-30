@@ -1,1 +1,1 @@
-# curso-webpack-react
+# Base para trabajar con React son NPX
